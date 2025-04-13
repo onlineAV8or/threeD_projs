@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 export default {
     root: 'src/',
     publicDir: '../static/',
-    base: '/threeD_trials/',
+    base: '/threeD_projs/text3D/',
     server:
     {
         host: true,
