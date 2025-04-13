@@ -12,7 +12,7 @@ export default {
     },
     build:
     {
-        outDir: '../dist',
+        outDir: '../dist/text3D/',
         emptyOutDir: true,
         sourcemap: true
     }
