@@ -12,8 +12,8 @@ export default {
     },
     build:
     {
-        outDir: '../dist/text3D/',
-        emptyOutDir: true,
+        outDir: '../../dist/text3D/',
+        emptyOutDir: false,
         sourcemap: true
     }
 }

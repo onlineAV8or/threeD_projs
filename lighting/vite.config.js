@@ -12,8 +12,8 @@ export default {
     },
     build:
     {
-        outDir: '../dist/lighting/',
-        emptyOutDir: true,
+        outDir: '../../dist/lighting/',
+        emptyOutDir: false,
         sourcemap: true
     }
 }
